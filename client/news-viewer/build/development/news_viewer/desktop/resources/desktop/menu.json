@@ -1,0 +1,6 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Article", "iconCls": "x-fa fa-table", "xtype": "Articlelview", "leaf": true }
+  ]
+}
