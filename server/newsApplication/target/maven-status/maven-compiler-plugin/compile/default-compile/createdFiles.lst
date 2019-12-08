@@ -1,0 +1,5 @@
+newsApplication\Data\NewsRepository.class
+newsApplication\Data\NewsService.class
+newsApplication\NewsApiApplication.class
+newsApplication\Data\News.class
+newsApplication\Data\NewsController.class
