@@ -12,5 +12,5 @@ Navodila za Server:
 
 Navodila za Client:
 
-    - Prenesi vsebino client mape, s konzolo se postavi notri v mapo news-viewer, ter izvedi ukaz npm start.
+    - Prenesi vsebino client mape, s konzolo se postavi notri v mapo news-viewer, ter izvedi ukaza npm i, npm start.
 	- V brskalniku se odpre aplikacija za pregled novic. V desnem zgornjem kotu se naredijo nove novice, nato pa se jih lahko gleda, ureja in briše.
